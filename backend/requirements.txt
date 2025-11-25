@@ -1,0 +1,11 @@
+flask
+flask-cors
+pandas
+requests
+scikit-learn
+numpy
+matplotlib
+twilio
+transformers
+torch
+python-dotenv
